@@ -1,0 +1,1 @@
+[![NodeJS with Webpack](https://github.com/vladimir-frozenfish/clear_function/actions/workflows/webpack.yml/badge.svg)](https://github.com/vladimir-frozenfish/clear_function/actions/workflows/webpack.yml)
